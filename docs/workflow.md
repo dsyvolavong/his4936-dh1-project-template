@@ -16,3 +16,13 @@ To make elegant workflow charts, use [LucidChart](https://lucidchart.com)
 Take plenty of screenshots to document your process...
     * **Mac** press 'command' + 'shift' + '4' and then drag a rectangle to take a screenshot of whatever you select... On
     * **Windows**, click the 'Start' button then type 'Snipping' and select Snipping Tool, then click 'New' and drag a rectangle to take a screenshot of whatever you select.
+
+![stats](imgs/Screen Shot 2018-07-18 at 6.46.13 PM.png)
+
+![mvp](imgs/Screen Shot 2018-07-18 at 6.45.46 PM.png)
+
+![attendance](imgs/Screen Shot 2018-07-18 at 6.46.27 PM.png)
+
+![records](imgs/Screen Shot 2018-07-18 at 6.46.51 PM.png)
+
+![birthplaces](imgs/Screen Shot 2018-07-18 at 6.47.11 PM.png)
