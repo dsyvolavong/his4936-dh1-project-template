@@ -3,8 +3,6 @@
 ---
 ![NBA Logo](https://vignette.wikia.nocookie.net/logopedia/images/4/4c/NBA_Horizontal_Logo_.svg/revision/latest?cb=20160207144301)
 
-4. Remember to also add your credits, introductions/summarys to the mkdocs.yml and README.md and docs/credits.md files.
-
 [Daren Syvolavong](mailto:dsyvolavong@mail.usf.edu)
 
 ---
@@ -25,7 +23,7 @@ Bill Russell wasn't the only person to pave the way for a non-white race to come
 
 Michael Jordan, known to many basketball fans as the GOAT (Greatest-Of-All-Time), was a dominant figure in the NBA in the 1980s and the 1990s. Jordan, along with Hall of Famer Scottie Pippen, led the Chicago Bulls to a total of six NBA Finals appearances, and a total of six championships, therefore being undefeated in an NBA Finals matchup. Michael Jordan not only revolutionized the NBA, he revolutionized the world through Air Jordan, a sub-company of Nike that produces shoes, clothing, and accessories. Air Jordan became the most succesful brand from a basketball player, and inspired other NBA players to create their own shoes and clothing lines.
 
-![Kobe and Lebron](https://cdn.vox-cdn.com/thumbor/4Yos1O3PH67Rq840-NwRgQ0waag=/0x105:3000x2105/1200x800/filters:focal(0x105:3000x2105)/cdn.vox-cdn.com/uploads/chorus_image/image/48779957/GettyImages-462505396.0.jpg)
+![Kobe and Lebron](https://mk0slamonlinensgt39k.kinstacdn.com/wp-content/uploads/2015/06/lebron-james-kobe-bryant-2048x1000.jpg)
 
 By following the path that Michael Jordan set for them, the "Black Mamba" Kobe Bryant and "The King" LeBron James desired to become the greatest. One step that both Bryant and James took was signing with Nike, thus creating their own signature shoes, which are currently some of the most popular Nike shoes on the market.
 
