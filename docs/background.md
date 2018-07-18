@@ -2,9 +2,7 @@
 
 ---
 
-Put a general discussion of your topic here. Don't get into the historiography or scholarship here. Just introduce to your reader what your topic is. What is the 'problem', the 'question', and/or the 'argument'.
-
-YOU SHOULD BE LIBERAL AND INCLUDE ANY AND ALL LINKS WHEN RELEVANT
+Throughout the history of the NBA, basketball has always faced racism issues. As baskbetball was initially an all-white-male sport, Bill Russell helped integrate black athletes in the NBA, creating an opportunity for minorities to play basketball. With the development of racial integration in the NBA, this opened up a path for basketball players to assist in the global marketing of basketball and the NBA.
 
 ---
 
