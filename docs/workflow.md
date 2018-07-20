@@ -19,10 +19,10 @@ Take plenty of screenshots to document your process...
 
 ![stats](imgs/stats.png)
 
-![mvp](imgs/mvp.png)
+![mvp](imgs/mvpdata.png)
 
 ![attendance](imgs/attendance.png)
 
 ![records](imgs/records.png)
 
-![birthplaces](imgs/birthplaces.png)
+![birthplaces](imgs/birthplacesdata.png)
