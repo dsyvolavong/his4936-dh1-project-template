@@ -24,8 +24,8 @@ You should also make sure to be a cautious scholar, and to think about the limit
 
 You must also comment on where you would go next. If these are initial findings, where do you think the best profit would be for any future attempts. This is also where you can talk about pitfalls that limited your ability to learn more about the topic. How might future projects overcome these difficulties?
 
-![mvp](mvp.png)
+![mvp](imgs/mvp.png)
 
-![champions](champions.png)
+![champions](imgs/champions.png)
 
-![finals mvp](finals_mvp.png)
+![finals mvp](imgs/finals_mvp.png)
