@@ -21,7 +21,7 @@ Take plenty of screenshots to document your process...
 
 ![mvp](imgs/mvpdata.png)
 
-![attendance](imgs/attendance.png)
+![attendance](imgs/attendancedata.png)
 
 ![records](imgs/records.png)
 
