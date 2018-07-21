@@ -16,13 +16,19 @@ To make elegant workflow charts, use [LucidChart](https://lucidchart.com)
 Take plenty of screenshots to document your process...
     * **Mac** press 'command' + 'shift' + '4' and then drag a rectangle to take a screenshot of whatever you select... On
     * **Windows**, click the 'Start' button then type 'Snipping' and select Snipping Tool, then click 'New' and drag a rectangle to take a screenshot of whatever you select.
+	
+When I first began gathering data I initially had eight sources that I wanted to gather data from. However, I narrowed down the number of sources to four most significant to my research.
 
-![stats](imgs/stats.png)
+The first source I gathered data from focused on the NBA players' birthplaces in the United States.
 
-![mvp](imgs/mvpdata.png)
+![birthplaces](imgs/birthplacesdata.png)
+
+The second dataset focused on the amount of attendance per game for each NBA team from 2000 to 2015.
 
 ![attendance](imgs/attendancedata.png)
 
-![records](imgs/records.png)
+The last source was centered around the NBA's MVPs, NBA champions, and NBA Finals MVPs.
 
-![birthplaces](imgs/birthplacesdata.png)
+![mvp](imgs/mvpdata.png)
+
+After I finished gathering and analyzing the data from these three sources, I created visuals for each dataset using Tableau. I chose to use Tableau to visualize my data because it was the program that I felt most comfortable using, and the program that I felt I could be the most creative with in showing my viewers my points of argument.
