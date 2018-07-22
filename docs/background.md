@@ -4,6 +4,8 @@
 
 Throughout the history of the NBA, basketball has always faced racism issues. As baskbetball was initially an all-white-male sport, Bill Russell helped integrate black athletes in the NBA, creating an opportunity for minorities to play basketball. With the development of racial integration in the NBA, this opened up a path for basketball players to assist in the global marketing of basketball and the NBA.
 
+![iconic](http://a.espncdn.com/photo/2013/0209/nba_jordan_13.jpg)
+
 ---
 
 ## Historical Background
@@ -18,6 +20,8 @@ As you discuss different authors, you may site them using (author, page) style p
 
 
 ![russell](https://i.cdn.turner.com/nba/nba/.element/media/2.0/teamsites/celtics/media/legends-russell-970x442.jpg)
+
+![bill russell](https://imagesvc.timeincapp.com/v3/fan/image?url=https%3A%2F%2Fhardwoodhoudini.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F08%2F541547808-2016-nba-finals-game-seven.jpg.jpg&c=sc&w=850&h=560)
 
 By changing the way the NBA viewed blacks and other minorities, many historiographers believe that this opened up a path for black athletes to pave way for the NBA to become a global market. One key figure that helped transform the NBA into a global market was Michael Jordan. As soon as the Michael Jordan entered the league in 1984, the athlete signed with Nike and created his own sub-company called 'Air Jordan.' Due to the immense popularity of Jordan and Nike worldwide, this caused the NBA to branch out to other countries in order to sell merchandise, as well as spread basketball and to help them start their own leagues. Although some authors have stated that the idea of an athlete being the face of a company, such as Nike, is unoriginal, they believe that Jordan becoming the face of Nike and Air Jordan was revolutionary (Batchelor, 53) because he helped the company's gross revenue total to about $986 million in 1984, and this number went up to nearly $10 billion in 2002 (Batchelor, 56). Nike was able to gain an immense amount of revenue due to Jordan's signature shoes being sold for thousands of dollars (Batchelor, 56), creating a path for Nike, Air Jodan, and the NBA to all become global markets. However, as Michael Jordan, Air Jordan, and the NBA gained enormous popularity worldwide, several authors have discussed the controversies that came with this popularity. The controversies involving Jordan and the NBA include the exploitation of underpaid Asian workers to manufacture merchandise, as well as targeting poor black children with basketball merchandise (LaFeber, 90), thus proving that in order for the rich to gain money, they have to take money from the poor. However, these controversies did not stop people from buying basketball related merchandise simply because they do not care where it comes from or how much it costs, as long it makes them look unique and special, thus allowing the NBA to become one of the biggest global markets. With the rise of Michael Jordan, basketball and the NBA became popular worldwide. Soon following Michael Jordan, Kobe Bryant and LeBron James continued to assist in the growth of the NBA worldwide, generating enormous amounts of money for the organization.
 
