@@ -12,14 +12,11 @@ Throughout the history of the NBA, basketball has always faced racism issues. As
 
 Throughout the history of the NBA, several authors have writtten about significant events that changed the NBA. In this section I have combined the different historiographies written in books and in online articles on the different figures that helped revolutionize the NBA racially and economically to transform the league into what it is today.
 
-Put a discussion of any relevant historigraphy you think relates to the topic. You can discuss the historiography of specific times and places, but you can also discuss any theoretical literature you think is relevant.
-
-You have freedom to roam from the narrow topic of your project to explore how different authors/schools of thought have impacted scholarly approaches over time. However, make sure that in the end you clearly relate how this discussion relates to the subject of your project and/or your choices in methods or interpreative models.
-
-As you discuss different authors, you may site them using (author, page) style parenthetical notation. Make sure that a full citation in [Chicago](http://chicagomanualofstyle.org) is added to the 'docs/credits.md' page.
-
+The NBA initially began as an all-white league, and even though the league allowed blacks to join, racism against blacks still lingered throughout the league. However, that was until Bill Russell entered the league. Russell was the first black superstar in the NBA, and he paved way for more black athletes to emerge in the NBA by facing the racism issues he faced and integrating blacks into the NBA. Several authors have written about the life of Bill Russell and his impact on both the league and the world. Russell's debut sparked great interest from the fans, as he was anticipated by many to be an outstanding basketball player, and he proved them right by having one of the most phenomenal careers of a NBA player (Nelson, 39). Not only did Russell have an impact on the United States as an activist in several civil rights movements, he also had an enormous impact on the rest of the world, as he traveled to Africa to spread the knowledge of basketball on behalf of the United States (Nelson, 53-55). Bill Russell soon made another remarkable impact on the NBA by becoming the first player-coach in the NBA, and some believe that this was an act of a civil rights movement (Nelson, 79). Bill Russell's impact on the court and off the court forever changed the lives of people inside and outside of the NBA, and helped influence the league and the world to be what it is today.
 
 ![russell](https://i.cdn.turner.com/nba/nba/.element/media/2.0/teamsites/celtics/media/legends-russell-970x442.jpg)
+
+
 
 ![bill russell](https://imagesvc.timeincapp.com/v3/fan/image?url=https%3A%2F%2Fhardwoodhoudini.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F08%2F541547808-2016-nba-finals-game-seven.jpg.jpg&c=sc&w=850&h=560)
 
@@ -40,9 +37,3 @@ For the digital sources written about Yao Ming's influence on the world, many au
 ![yao](https://www.shine.cn/newsimage/2017/02/23/020170223113021.jpg)
 
 ---
-
-## Digital Background
-
-You should also make sure to do research on any relevant digital work, whether scholarly articles or digital projects. Make sure to check Digital Humanities Quarterly, or [DHQ](http://www.digitalhumanities.org/dhq/), [Debates in the Digital Humanities](http://dhdebates.gc.cuny.edu/), [JStor](https://jstor.org), blogs and more to find relevant work.
-
-You don't actually have to have a sepearte 'Digital Background' section. If it feels more natural to you, you may combine them into a single discussion. This is especially a good idea if you feel that with your topic you cannot talk about historiography without also talking about digital scholarship, and vice versa.
