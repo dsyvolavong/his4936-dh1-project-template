@@ -16,7 +16,7 @@ The NBA initially began as an all-white league, and even though the league allow
 
 ![russell](https://i.cdn.turner.com/nba/nba/.element/media/2.0/teamsites/celtics/media/legends-russell-970x442.jpg)
 
-
+Several digital articles have written about the racism issues against blacks that the early NBA initially faced. Several authors have compared the early NBA to the early United States, as the black athletes had to compete in front of predominantly white audiences and are on teams owned by white people, whereas black slaves had to work and perform for the white masters (Griffin, 162). This ideology is still in place today because the majority and the NBA teams' owners and coaches are white, and most of the players are black, showing that not much has changed in the NBA since Bill Russell's influence. Regarding Russell's influence on the NBA and world, historiographers have written several articles about his revolutionization of basketball. Several authors have written about how Russell not only changed the game of basketball with his size and defense, but also changed it by integrating more black athletes into the NBA by essentially becoming a role model and a civil rights movement leader for the NBA (Goudsouzian, 61).
 
 ![bill russell](https://imagesvc.timeincapp.com/v3/fan/image?url=https%3A%2F%2Fhardwoodhoudini.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2017%2F08%2F541547808-2016-nba-finals-game-seven.jpg.jpg&c=sc&w=850&h=560)
 
