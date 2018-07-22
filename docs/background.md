@@ -16,6 +16,8 @@ As you discuss different authors, you may site them using (author, page) style p
 
 Throughout the history of the NBA, several authors have writtten about significant events that changed the NBA. 
 
+![russell](https://i.cdn.turner.com/nba/nba/.element/media/2.0/teamsites/celtics/media/legends-russell-970x442.jpg)
+
 By changing the way the NBA changed its views on the blacks and other minorities, this opened up a path for black athletes to pave way for the NBA to become a global market. With the rise of Michael Jordan, basketball and the NBA became popular worldwide. Soon following Michael Jordan, Kobe Bryant and LeBron James continued to assist in the growth of the NBA worldwide, generating enormous amounts of money for the organization. 
 
 ![mj and kobe](https://www.walldevil.com/wallpapers/w09/nba-basketball-kobe-bryant-kobe-chicago-chicago-bulls-scottie-pippen-michael-michael-jordan-los-angeles-los-angeles-lakers-bulls.jpg)
