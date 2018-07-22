@@ -6,4 +6,4 @@ Although I did have to change several of my visualizations, I believe that that 
 
 Lastly, I believe that I can continue to argue about the diversity of races with this project because even though the majority of the NBA is white and black athletes, there is also a number of Asian and Hispanic players as well. In the future, I wish to expand on this project by using basketball-reference.com's database of players to show the diversity by naming the race of each of the 4000+ players to ever play in the NBA. As basketball-reference.com does not state the race of each player, I would have to manually enter each player's race, which was something I could not do for this project due to lack of time. If I am able to do this, I believe that I would be able to solidify and strengthen my argument of Bill Russell opening up a path for non-whites to enter the NBA, therefore helping the league to become a global market.
 
-![kobe finals](https://s22928.pcdn.co/wp-content/uploads/2016/08/kobe-game-7-celtics.jpg)
+![kobe finals](http://www.nba.com/dam/assets/151130002416-kobe-bryant-nba-finals-game-7-boston-celtics-v-los-angeles-lakers.home-t1.jpeg)
