@@ -20,12 +20,8 @@ In this visualization, I used a dataset created by Gabe Salzer to show the resul
 
 ![mvp](imgs/mvp.png)
 
----
-
-![champions](imgs/champions.png)
-
----
-
 ![finals mvp](imgs/finals_mvp.png)
+
+For these two visuals, I gathered data from a dataset created by Tristan Malherbe to analyze the correlation between NBA MVPs and Finals MVPs and their races. Though there were few non-white athletes in the early stages of the NBA and many prejudices against black athletes, this visualization shows that black athletes were more likely to be given the MVP and Finals MVP awards. This result may be shocking to some viewers because the two prestigious awards were voted by a committee on who to decide which awards were to be given to who, especially during the time of Bill Russell and Wilt Chamberlain. However, one of the most shocking things about this visual is that within the span of 62 years, there have only been seven non-black MVPs and seven non-black Finals MVPs.
 
 ---
