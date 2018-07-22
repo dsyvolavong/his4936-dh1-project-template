@@ -1,18 +1,17 @@
 # Workflow
+	
+When I first began gathering data I initially had eight datasets that I wanted to gather data from. However, I narrowed down the number of sources to the three that were the most significant to my research.
 
-Describe your overall workflow here.
+The first source I gathered data from focused on the NBA players' birthplaces in the United States. This dataset is titled 'NBA Players' Birthplaces,' and was created by Gabe Salzer and Selene Arrazolo on data.world. I chose to use this dataset because I wanted to see the correlation between NBA players' birthplaces in the United States and the races of NBA players, such as if this state has a higher black population, did this state produce more NBA players? As this source already had a dataset created in Microsoft Excel, I just directly downloaded the source and did not webscrape it or change anything in it via OpenRefine.
 
-Discuss (in detail) the processes of
+![birthplaces](imgs/birthplacesdata.png)
 
-* Getting the data
-* Cleaning/altering the data
-* Visualizing the data
-* Discussing and sharing results with group members
+The second dataset focused on the amount of attendance per game for each NBA team from 2000 to 2015. This source is titled 'NBA Team Annual Attendance,' also created by Gabe Salzer on data.world. I chose to use this source in order to see the result of the growth of the NBA via it's fan post-Michael Jordan era, and during the Kobe Bryant and LeBron James era. With this, I will be able to see how much money the NBA has generated throughout the years. As this dataset was posted on data.world, I just directly downloaded it as a Microsoft Excel file, and did not have to webscrape it, nor did I have to change anything in the file via OpenRefine.
 
-What you need to cover: Talk about every step in your process, talk about how and why you made the decisions that you did. Why did you pick the website that you did? Did you download every record, or just some? Did you download the data directly from the website, or did you use a tool like Webscraper.io? Did you use OpenRefine to change the raw data in some form, and if so, why did you change it the way you did? What program(s) or techniques did you decide on to visualize or analyze it? Why did you feel those programs (e.g. Tableau or Gephi) were better than other options, given your research interest? Did you have to do anything to the data inside Tableau?
+![attendance](imgs/attendancedata.png)
 
-To make elegant workflow charts, use [LucidChart](https://lucidchart.com)
+The last source was created by Tristan Malherbe on data.world, was titled 'NBA Finals and MVPS,' and centered around the NBA's MVPs, NBA champions, and NBA Finals MVPs. Although I did not have to webscrape this source, as I directly downloaded this source as a Microsoft Excel file, I did have to add some things to this file but not using OpenRefine. I added a section titled 'Finals MVPs' and added two other sections to it that stated the race of each season's MVP and each Finals' MVP. Therefore, I chose to use this source in order to see whether or not a certain race had more MVPs and Finals MVPs.
 
-Take plenty of screenshots to document your process...
-    * **Mac** press 'command' + 'shift' + '4' and then drag a rectangle to take a screenshot of whatever you select... On
-    * **Windows**, click the 'Start' button then type 'Snipping' and select Snipping Tool, then click 'New' and drag a rectangle to take a screenshot of whatever you select.
+![mvp](imgs/mvpdata.png)
+
+After I finished gathering and analyzing the data from these three sources, I created visuals for each dataset using Tableau (found on the 'Initial Findings' tab). I chose to use Tableau to visualize my data because it was the program that I felt most comfortable using, and the program that I felt I could be the most creative with in showing my viewers my points of argument.

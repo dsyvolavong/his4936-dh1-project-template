@@ -1,25 +1,27 @@
 # Initial Findings
 
-This is where you where you discuss any (initial) conclusions you have come to. This is also a natural place to put any and all visualizations that you come up with. In fact, this is where you tell the reader what it is you discovered. You can use the first person if that helps you discuss the process. This is where you both describe to the reader what they are looking at (if they are looking at a visualization) and, most importantly, what your interpretation of the results is.
+![heat](https://cdn.cnn.com/cnnnext/dam/assets/130621001215-heat-win-horizontal-large-gallery.jpg)
 
-If you want to add an image with a caption you can do it like this....
+In this section I have made visualizations for the different datasets that I used for my research. Through the data that I used and the visualizations that I created, I have found that even though blacks were not initially welcomed into the NBA, the NBA transformed into a black-athlete-dominated league with the help of Bill Russell, and the NBA was also able to transform into a global market with the help of athletes like Michael Jordan.
 
-<figure>
+---
 
-![Replace Me, Sample Image](imgs/caesarian_code.png)
+![birthplaces](imgs/birthplaces.png)
 
-<figcaption>
+In this visualization of NBA players, I have used a dataset created by Gabe Salzer and Selene Arrazolo to see the correlation of the number of NBA players and their races to which states produce the most NBA players. The NBA is known to have a significantly larger number of blacks athletes, and through this dataset I realized that the states that produce the most blacks often produce the most NBA players. According to blackdemographics.com (http://blackdemographics.com/population/black-state-population/), the states that have the greatest number of blacks were southern and eastern states, and California. This visualization also shows that southern and eastern states and California have produced the greatest number of NBA players.
 
-*Put a caption to your image here, if you want*
+---
 
-</figcaption>
+![attendance](imgs/attendance.png)
 
-</figure>
+In this visualization, I used a dataset created by Gabe Salzer to show the result of the global marketing of the NBA post-Michael Jordan era by showing the total number of attendances each team had and the amount of money each NBA team generated in a span of fifteen years. From the year 2000 to 2015, the number of fans and money the NBA has generated consistantly increased, allowing the NBA to become one of the most wealthy sports league in the world. This visualization shows that there have been a total of 334,094,544 home games attendances between 2000 and 2015 during the regular NBA season, not including the playoffs. The average ticket for a NBA game is about $80, this means that between 2000 and 2015 the NBA generated a total of $26,727,563,520 from home game attendances, not including the sales of merchandise and playoff tickets the NBA also generated. The amount of money the NBA generated is a direct result of the global market that the NBA became during the time of NBA legends such as Bill Russell, Wilt Chamberlain, Kareem Abdul-Jabbar, Larry Bird, Magic Johnson, Hakeem Olajuwon and Michael Jordan.
 
-Whether you turn your visualizations into static pictures and put them here or embed them, you MUST discuss your visualizations adequately. That means that whoever is the visualization expert must explain what they think the visualization means. You should explain anything that is not self-apparent from the picture alone. Moreover, you should at least comment on whether you think you can draw broader conclusions from any of the visualizations, either when considered individually or all together.
+---
 
-If your project was less visualization-centric, this is where you at least explain in plain words what you learned through the process of non-visual analysis. For example, if you used text mining not for visualization purposes, but to help you manually find interesting threads of conversation in a body of documents.
+![mvp](imgs/mvp.png)
 
-You should also make sure to be a cautious scholar, and to think about the limitations of what the visualizations can actually tell you. As indicated by the section name, you are **not** expected to make hard conclusions that upend serious historical debates. Rather, this is a place to explore what might be learned from visual exploration.
+![finals mvp](imgs/finals_mvp.png)
 
-You must also comment on where you would go next. If these are initial findings, where do you think the best profit would be for any future attempts. This is also where you can talk about pitfalls that limited your ability to learn more about the topic. How might future projects overcome these difficulties?
+For these two visuals, I gathered data from a dataset created by Tristan Malherbe to analyze the correlation between NBA MVPs and Finals MVPs and their races. Though there were few non-white athletes in the early stages of the NBA and many prejudices against black athletes, this visualization shows that black athletes were more likely to be given the MVP and Finals MVP awards. This result may be shocking to some viewers because the two prestigious awards were voted by a committee on who to decide which awards were to be given to who, as the voting committee in the early stages of the NBA consisted of mostly white voters. Another shocking thing that this visual shows is that within the span of 62 years, there have only been seven non-black MVPs (two being non-American citizens) and seven non-black Finals MVPs.
+
+---
