@@ -14,6 +14,8 @@ You have freedom to roam from the narrow topic of your project to explore how di
 
 As you discuss different authors, you may site them using (author, page) style parenthetical notation. Make sure that a full citation in [Chicago](http://chicagomanualofstyle.org) is added to the 'docs/credits.md' page.
 
+Throughout the history of the NBA, several authors have writtten about significant events that changed the NBA. By changing the way the NBA changed its views on the blacks and other minorities, this opened up a path for black athletes to pave way for the NBA to become a global market. With the rise of Michael Jordan, basketball and the NBA became popular worldwide. Soon following Michael Jordan, Kobe Bryant and LeBron James continued to assist in the growth of the NBA worldwide, generating enormous amounts of money for the organization.
+
 ---
 
 ## Digital Background
