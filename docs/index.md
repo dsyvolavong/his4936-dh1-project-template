@@ -9,7 +9,7 @@
 
 Basketball is currently one of the most popular sports played and watched worldwide. Basketball was originally invented in the United States in 1891 by James Naismith, and this newfound sport initially consisted of pick-up games, or spontaneous games where group of players would score the basketball in a basketball hoop. Basketball quickly grew popular and a league where teams competed against each other was formed in 1898. The popularity of basketball constantly grew and led to the formation of a new professional league, the National Basketball Association (NBA), in 1946. Another league, the American Basketball Association (ABA), was formed in 1967, however the ABA and NBA later merged together in 1976 under the name of the NBA. Today, the NBA and basketball in general continues to grow thanks to the fans and the players.
 
-In this project, I aim to tell my readers about pivotal moments that changed the NBA. With the help of players such as Bill Russell and Yao Ming, the NBA opened up to more black and Asian players, and with the help of players such Michael Jordan, Kobe Bryant, and LeBron James, the NBA was able to become a global market.
+In this project, I aim to tell my readers about pivotal moments that changed the NBA. With the help of Bill Russell, he was able to lead way for racial diversity in the NBA, which caused players like Michael Jordan to rise in popularity and help the NBA to become a global market.
 
 ![Bill Russell](https://cdn-s3.si.com/s3fs-public/bill-russell-getty2.jpg)
 
@@ -17,15 +17,11 @@ Originally basketball began as a white-dominated league with few, if any, minori
 
 ![Yao Ming](http://www.xinhuanet.com/english/2017-02/04/136031062_14862621961471n.jpg)
 
-Bill Russell wasn't the only person to pave the way for a non-white race to come into the NBA, as Yao Ming helped bring more Asians into the NBA. Yao destroyed all of the stereotypes of Asians being to small, as this 7'6" giant came into the league as one of the tallest players to ever play in the NBA. Though his career was cut short due to injuries, this Hall of Fame basketball star was able to inspire fellow Asians, such as Yi Jianlian and Jeremy Lin, to attempt a career in the NBA.
+Bill Russell wasn't the only person to pave the way for a non-white race to come into the NBA, as Yao Ming helped bring more Asians into the NBA. Yao destroyed all of the stereotypes of Asians being too small to play in the NBA, as this 7'6" giant came into the league as one of the tallest players to ever play in the league. Though his career was cut short due to injuries, this Hall of Fame basketball star was able to inspire fellow Asians and Asian-Americans, such as Yi Jianlian and Jeremy Lin, to attempt a career in the NBA.
 
 ![Michael and Scottie](https://mk0slamonlinensgt39k.kinstacdn.com/wp-content/uploads/2017/12/rsz_gettyimages-71052255.jpg)
 
-Michael Jordan, known to many basketball fans as the GOAT (Greatest-Of-All-Time), was a dominant figure in the NBA in the 1980s and the 1990s. Jordan, along with Hall of Famer Scottie Pippen, led the Chicago Bulls to a total of six NBA Finals appearances, and a total of six championships, therefore being undefeated in an NBA Finals matchup. Michael Jordan not only revolutionized the NBA, he revolutionized the world through Air Jordan, a sub-company of Nike that produces shoes, clothing, and accessories. Air Jordan became the most succesful brand from a basketball player, and inspired other NBA players to create their own shoes and clothing lines.
-
-![Kobe and Lebron](https://mk0slamonlinensgt39k.kinstacdn.com/wp-content/uploads/2015/06/lebron-james-kobe-bryant-2048x1000.jpg)
-
-By following the path that Michael Jordan set for them, the "Black Mamba" Kobe Bryant and "The King" LeBron James desired to become the greatest. One step that both Bryant and James took was signing with Nike, thus creating their own signature shoes, which are currently some of the most popular Nike shoes on the market.
+Michael Jordan, known to many basketball fans as the greatest basketball player ever, was a dominant figure in the NBA in the 1980s and the 1990s. Jordan, along with Hall of Famer Scottie Pippen, led the Chicago Bulls to a total of six NBA Finals appearances, and a total of six championships, therefore being undefeated in a NBA Finals matchup. Michael Jordan not only revolutionized the NBA as one of the most competitive and fiercest players, he revolutionized the world through Air Jordan, a sub-company of Nike that produces shoes, clothing, and accessories. Air Jordan became the most succesful brand from a basketball player, and inspired other NBA players, such as Kobe Bryant and LeBron James, to create their own shoes and clothing lines. With the popularity of Michael Jordan and Air Jordan worldwide, both assisted in the economical empire known as the NBA.
 
 ---
 
